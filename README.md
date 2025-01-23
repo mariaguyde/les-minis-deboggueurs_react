@@ -1,6 +1,6 @@
 # Les minis déboggueurs
 
-Développement d'une web-app pour le jeu Les mini déboggueurs permettant d'avoir un suivi de jeu ainsi qu'un accès aux ressources du jeu. 
+Développement d'une web-app pour le jeu Les mini déboggueurs permettant d'avoir un suivi de jeu ainsi qu'un accès aux ressources du jeu faite avec [Mokonaa](https://github.com/mokonaa)
 
 ## Lancement du projet en local 
 
